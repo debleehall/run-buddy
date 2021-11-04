@@ -103,7 +103,7 @@ section {
 .form-input {
     border: 1px solid #024e76;
     display: block;
-    padding: 7px 15 px;
+    padding: 7px 15px;
     font-size: 16px;
     color: #024e76;
     width: 100%;
@@ -123,11 +123,11 @@ section {
 
 .section-title {
     font-size: 55px;
-    color: #024e76;
-    margin-bottom: 35px;
+    display: inline-block;
     padding: 0 100px 20px 100px;
     border-bottom: 3px solid;
-    display: inline-block;
+    margin-bottom: 35px;
+    color: #024e76;
 }
 
 .primary-border {
