@@ -44,7 +44,7 @@ header nav ul {
 }
 
 header nav ul li a {
-    margin: 0 30px;
+    padding: 10 15px;
     font-weight: lighter;
     font-size: 1.5vw;
 }
@@ -85,6 +85,7 @@ section {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: flex-start;
 }
 
 .hero-form {
@@ -131,7 +132,7 @@ section {
     margin: 3.5%;
     color: #fff;
     font-size: 18px;
-    line-height: 1.3;
+    line-height: 1.2;
 }
 
 .hero-cta h2 {
@@ -142,7 +143,7 @@ section {
 /* Hero Style end */
 
 .section-title {
-    font-size: 55px;
+    font-size: 48px;
     border-bottom: 3px solid;
     color: #024e76;
     padding-bottom: 20px;
@@ -339,3 +340,24 @@ section {
 }
 
 /* Reach out styles end */
+
+/* Media query for smaller desktop screens and smaller */
+@media screen and (max-width: 980px) {
+    header h1 a {
+        
+    }
+}
+
+/* Media query for tablets and smaller */
+@media screen and (max-width 768) {
+    header h1 {
+        
+    }
+}
+
+/* Media query for mobile phones and smaller */
+@media screen and (max-width: 575px) {
+    header h1 {
+        
+    }
+}
