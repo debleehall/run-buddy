@@ -17,6 +17,7 @@ Made with ❤️ by Debbie Hall
 
 #### OSU Bootcamp
 This website was used to teach Module 1 (HTML, CSS, and Git) and Module 2 (Advanced CSS). 
+
 ***Module 1 skills learned:***
 * Interacted with the computer's file system by using the command line. This is a skill that developers use almost daily.
 * Created an HTML document in VS Code.
@@ -26,6 +27,7 @@ This website was used to teach Module 1 (HTML, CSS, and Git) and Module 2 (Advan
 * Used GitHub to create a remote location for the repository, and then published the project to GitHub Pages for others to see.
 * Applied style and layout to HTML content by using CSS, learning about its syntax, rules, and quirks.
 * Used the knowledge gained from building the Run Buddy landing page to create a Privacy Policy page.
+
 ***Module 2 skills learned:***
 * Replaced the CSS floats with flexbox to create a more fluid layout.
 * Applied media queries to accommodate multiple screen sizes and devices.
